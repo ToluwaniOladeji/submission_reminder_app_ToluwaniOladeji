@@ -76,8 +76,8 @@ submission_reminder_YourName/
 
 ```
 student, assignment, submission status
-Alice, Shell Navigation, not submitted
-Bob, Git, submitted
+Babatunde Alice, Shell Navigation, not submitted
+Micheal Jackson, Git, submitted
 ```
 
 ## Repository Structure
