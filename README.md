@@ -35,11 +35,7 @@ This directory contains:
 
 ### 2. Run the Reminder App
 
-Navigate into your generated directory and run:
-
-```bash
-bash startup.sh
-```
+The copilot_shell_script.sh will run the startup.sh script:
 
 This will check the `submissions.txt` file for students who have not submitted the assignment specified in `config.env`.
 
